@@ -2,6 +2,7 @@
   "version": "1.0",
   "name": "silo-base-image-catalogue",
   "description": "A catalogue of official base images for use with the Silo platform.",
+  
   "silo-images": {
     "arm64": [
       {
