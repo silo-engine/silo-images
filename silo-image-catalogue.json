@@ -27,6 +27,14 @@
         "release_checksum": "6a1d625924e975ebec0d9d6a93bca085d073dfb57731383f8c03862b1cb5334e",
         "description": "Official Silo base Image Release. Distro: ubuntu | Version: 22.04 | Architecture: arm64 | Release version: 1792338306535181291.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792338306535181291/ubuntu-22.04--arm64.tar.gz"
+      },
+      {
+        "distro": "ubuntu",
+        "version": "26.04",
+        "release_version": "1792338435353141991",
+        "release_checksum": "731c4196b754af30d10d205a7b5b50ea226ae9b90c8e95f2cca2e4c47a95f467",
+        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 26.04 | Architecture: arm64 | Release version: 1792338435353141991.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792338435353141991/ubuntu-26.04--arm64.tar.gz"
       }
     ],
     "amd64": []
