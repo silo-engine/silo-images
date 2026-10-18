@@ -51,6 +51,14 @@
         "release_checksum": "fdb8313d759f226180884122f1ad9acecf5fd7e27112f6842c82408160d56872",
         "description": "Official Silo base Image Release. Distro: ubuntu | Version: 24.04 | Architecture: arm64 | Release version: 1792338895656052156.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792338895656052156/ubuntu-24.04--arm64.tar.gz"
+      },
+      {
+        "distro": "debian",
+        "version": "12",
+        "release_version": "1792339036986711435",
+        "release_checksum": "aa74ecee529b80ba8bb56af50be671474ccbeb8a6f30c17b4292e0775d1932d6",
+        "description": "Official Silo base Image Release. Distro: debian | Version: 12 | Architecture: arm64 | Release version: 1792339036986711435.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792339036986711435/debian-12--arm64.tar.gz"
       }
     ],
     "amd64": []
