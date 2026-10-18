@@ -43,6 +43,14 @@
         "release_checksum": "3b2e965b5044a53eba1b0d477ea61ab287add2def5c196f58e7960adf9c9ec75",
         "description": "Official Silo base Image Release. Distro: ubuntu | Version: 18.04 | Architecture: arm64 | Release version: 1792338788854047674.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792338788854047674/ubuntu-18.04--arm64.tar.gz"
+      },
+      {
+        "distro": "ubuntu",
+        "version": "24.04",
+        "release_version": "1792338895656052156",
+        "release_checksum": "fdb8313d759f226180884122f1ad9acecf5fd7e27112f6842c82408160d56872",
+        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 24.04 | Architecture: arm64 | Release version: 1792338895656052156.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792338895656052156/ubuntu-24.04--arm64.tar.gz"
       }
     ],
     "amd64": []
