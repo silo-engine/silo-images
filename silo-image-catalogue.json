@@ -11,6 +11,14 @@
         "release_checksum": "fa74e991721655c27b53183803a1761d890acca2a41e9e91b94b112f4cde1ed4",
         "description": "Official Silo base Image Release. Distro: ubuntu | Version: 20.04 | Architecture: arm64 | Release version: 1792329786128309928.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792329786128309928/ubuntu-20.04--arm64.tar.gz"
+      },
+      {
+        "distro": "ubuntu",
+        "version": "25.04",
+        "release_version": "179233821849608060",
+        "release_checksum": "e2a4a45a89d8609fa78c894417cfcc797d87ad0db4ad3a22946fe14b2805fdeb",
+        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 25.04 | Architecture: arm64 | Release version: 179233821849608060.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/179233821849608060/ubuntu-25.04--arm64.tar.gz"
       }
     ],
     "amd64": []
