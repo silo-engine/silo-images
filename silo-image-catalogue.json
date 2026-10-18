@@ -2,9 +2,17 @@
   "version": "1.0",
   "name": "silo-base-image-catalogue",
   "description": "A catalogue of official base images for use with the Silo platform.",
-  
   "silo-images": {
-    "arm64": [],
+    "arm64": [
+      {
+        "distro": "ubuntu",
+        "version": "20.04",
+        "release_version": "1792329786128309928",
+        "release_checksum": "fa74e991721655c27b53183803a1761d890acca2a41e9e91b94b112f4cde1ed4",
+        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 20.04 | Architecture: arm64 | Release version: 1792329786128309928.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792329786128309928/ubuntu-20.04--arm64.tar.gz"
+      }
+    ],
     "amd64": []
   }
 }
