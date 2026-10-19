@@ -11,6 +11,14 @@
         "release_checksum": "3b015bd5db000a263a63ab93232b7896f534d89eac9deba16ed758652dccbb2e",
         "description": "Official Silo base Image Release. Distro: alma | Version: 10 | Architecture: arm64 | Release version: 1792373627504074839.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792373627504074839/alma-10--arm64.tar.gz"
+      },
+      {
+        "distro": "alma",
+        "version": "9",
+        "release_version": "1792373904211075515",
+        "release_checksum": "ce8507d3ba1d7f181f67daf2613a55c92db9357afe5fd59c1c154d6440f1fe7a",
+        "description": "Official Silo base Image Release. Distro: alma | Version: 9 | Architecture: arm64 | Release version: 1792373904211075515.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792373904211075515/alma-9--arm64.tar.gz"
       }
     ],
     "amd64": []
