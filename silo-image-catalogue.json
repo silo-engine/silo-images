@@ -83,6 +83,14 @@
         "release_checksum": "a4f10abcaab496fe1e1ad74ee4d3e1e05cdf132ec0c603a66771698ea336d92a",
         "description": "Official Silo base Image Release. Distro: ubuntu | Version: 18.04 | Architecture: arm64 | Release version: 1792375738748326447.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792375738748326447/ubuntu-18.04--arm64.tar.gz"
+      },
+      {
+        "distro": "ubuntu",
+        "version": "20.04",
+        "release_version": "1792375842992492978",
+        "release_checksum": "76434028bcda6ff42baf5b888df39a5e022311a7ab9b270d743e8ba0b424b61a",
+        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 20.04 | Architecture: arm64 | Release version: 1792375842992492978.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792375842992492978/ubuntu-20.04--arm64.tar.gz"
       }
     ],
     "amd64": []
