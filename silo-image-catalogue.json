@@ -27,6 +27,14 @@
         "release_checksum": "953ea9757b4eb4f77870ee8fa33c43e55ef12c16dd7924345080cbe56ea616f7",
         "description": "Official Silo base Image Release. Distro: debian | Version: 12 | Architecture: arm64 | Release version: 1792374376869052885.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792374376869052885/debian-12--arm64.tar.gz"
+      },
+      {
+        "distro": "debian",
+        "version": "13",
+        "release_version": "1792374470712906370",
+        "release_checksum": "2dcbfcdfdafe84cbaca021bc0d2158805f5b861d7bbba2a4bed6440944731ab8",
+        "description": "Official Silo base Image Release. Distro: debian | Version: 13 | Architecture: arm64 | Release version: 1792374470712906370.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792374470712906370/debian-13--arm64.tar.gz"
       }
     ],
     "amd64": []
