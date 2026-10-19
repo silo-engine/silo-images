@@ -91,6 +91,14 @@
         "release_checksum": "76434028bcda6ff42baf5b888df39a5e022311a7ab9b270d743e8ba0b424b61a",
         "description": "Official Silo base Image Release. Distro: ubuntu | Version: 20.04 | Architecture: arm64 | Release version: 1792375842992492978.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792375842992492978/ubuntu-20.04--arm64.tar.gz"
+      },
+      {
+        "distro": "ubuntu",
+        "version": "22.04",
+        "release_version": "1792375906303165656",
+        "release_checksum": "d33f829f5a26ecda0709c8f289a35953be3f1ae8142abb2b4d24434388e8b209",
+        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 22.04 | Architecture: arm64 | Release version: 1792375906303165656.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792375906303165656/ubuntu-22.04--arm64.tar.gz"
       }
     ],
     "amd64": []
