@@ -3,6 +3,8 @@
   "name": "silo-base-image-catalogue",
   "description": "A catalogue of official base images for use with the Silo platform.",
   "silo-images": {
+    "defaultArm64Image": {"distro": "ubuntu", "version": "25.04", "release_version": "1792376224294092687"},
+    "defaultAmd64Image": {},
     "arm64": [
       {
         "distro": "alma",
