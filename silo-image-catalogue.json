@@ -35,6 +35,14 @@
         "release_checksum": "2dcbfcdfdafe84cbaca021bc0d2158805f5b861d7bbba2a4bed6440944731ab8",
         "description": "Official Silo base Image Release. Distro: debian | Version: 13 | Architecture: arm64 | Release version: 1792374470712906370.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792374470712906370/debian-13--arm64.tar.gz"
+      },
+      {
+        "distro": "fedora",
+        "version": "42",
+        "release_version": "1792374629591952363",
+        "release_checksum": "1c7c03f63d87793d109687e14d9da7a42e14f79cd141ab82e10874e67d208a92",
+        "description": "Official Silo base Image Release. Distro: fedora | Version: 42 | Architecture: arm64 | Release version: 1792374629591952363.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792374629591952363/fedora-42--arm64.tar.gz"
       }
     ],
     "amd64": []
