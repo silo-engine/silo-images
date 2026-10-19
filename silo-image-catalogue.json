@@ -115,6 +115,14 @@
         "release_checksum": "5b134bdc479aff788a53f4136a986d9ad58d4d53f98fdd44b655e8b45e2b13a2",
         "description": "Official Silo base Image Release. Distro: ubuntu | Version: 25.04 | Architecture: arm64 | Release version: 1792376224294092687.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792376224294092687/ubuntu-25.04--arm64.tar.gz"
+      },
+      {
+        "distro": "ubuntu",
+        "version": "26.04",
+        "release_version": "1792376366402004199",
+        "release_checksum": "61daffd2e3986ef7044fbb65194d9376920cdbf6656fedf383b1f3814f6f0887",
+        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 26.04 | Architecture: arm64 | Release version: 1792376366402004199.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792376366402004199/ubuntu-26.04--arm64.tar.gz"
       }
     ],
     "amd64": []
