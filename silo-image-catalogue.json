@@ -3,72 +3,7 @@
   "name": "silo-base-image-catalogue",
   "description": "A catalogue of official base images for use with the Silo platform.",
   "silo-images": {
-    "arm64": [
-      {
-        "distro": "ubuntu",
-        "version": "20.04",
-        "release_version": "1792329786128309928",
-        "release_checksum": "fa74e991721655c27b53183803a1761d890acca2a41e9e91b94b112f4cde1ed4",
-        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 20.04 | Architecture: arm64 | Release version: 1792329786128309928.",
-        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792329786128309928/ubuntu-20.04--arm64.tar.gz"
-      },
-      {
-        "distro": "ubuntu",
-        "version": "25.04",
-        "release_version": "179233821849608060",
-        "release_checksum": "e2a4a45a89d8609fa78c894417cfcc797d87ad0db4ad3a22946fe14b2805fdeb",
-        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 25.04 | Architecture: arm64 | Release version: 179233821849608060.",
-        "image_url": "https://github.com/silo-engine/silo-images/releases/download/179233821849608060/ubuntu-25.04--arm64.tar.gz"
-      },
-      {
-        "distro": "ubuntu",
-        "version": "22.04",
-        "release_version": "1792338306535181291",
-        "release_checksum": "6a1d625924e975ebec0d9d6a93bca085d073dfb57731383f8c03862b1cb5334e",
-        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 22.04 | Architecture: arm64 | Release version: 1792338306535181291.",
-        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792338306535181291/ubuntu-22.04--arm64.tar.gz"
-      },
-      {
-        "distro": "ubuntu",
-        "version": "26.04",
-        "release_version": "1792338435353141991",
-        "release_checksum": "731c4196b754af30d10d205a7b5b50ea226ae9b90c8e95f2cca2e4c47a95f467",
-        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 26.04 | Architecture: arm64 | Release version: 1792338435353141991.",
-        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792338435353141991/ubuntu-26.04--arm64.tar.gz"
-      },
-      {
-        "distro": "ubuntu",
-        "version": "18.04",
-        "release_version": "1792338788854047674",
-        "release_checksum": "3b2e965b5044a53eba1b0d477ea61ab287add2def5c196f58e7960adf9c9ec75",
-        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 18.04 | Architecture: arm64 | Release version: 1792338788854047674.",
-        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792338788854047674/ubuntu-18.04--arm64.tar.gz"
-      },
-      {
-        "distro": "ubuntu",
-        "version": "24.04",
-        "release_version": "1792338895656052156",
-        "release_checksum": "fdb8313d759f226180884122f1ad9acecf5fd7e27112f6842c82408160d56872",
-        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 24.04 | Architecture: arm64 | Release version: 1792338895656052156.",
-        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792338895656052156/ubuntu-24.04--arm64.tar.gz"
-      },
-      {
-        "distro": "debian",
-        "version": "12",
-        "release_version": "1792339036986711435",
-        "release_checksum": "aa74ecee529b80ba8bb56af50be671474ccbeb8a6f30c17b4292e0775d1932d6",
-        "description": "Official Silo base Image Release. Distro: debian | Version: 12 | Architecture: arm64 | Release version: 1792339036986711435.",
-        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792339036986711435/debian-12--arm64.tar.gz"
-      },
-      {
-        "distro": "debian",
-        "version": "13",
-        "release_version": "1792339297178463277",
-        "release_checksum": "d1dfe9d890617610efbb5baecf7fa50fade59423ae1f4d07036e598fb9d27395",
-        "description": "Official Silo base Image Release. Distro: debian | Version: 13 | Architecture: arm64 | Release version: 1792339297178463277.",
-        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792339297178463277/debian-13--arm64.tar.gz"
-      }
-    ],
+    "arm64": [],
     "amd64": []
   }
 }
