@@ -59,6 +59,14 @@
         "release_checksum": "0be3906bdf6bbd0689d3896960f05f8573510c03ca87a1b3cc9aaebd05d8ba39",
         "description": "Official Silo base Image Release. Distro: fedora | Version: 44 | Architecture: arm64 | Release version: 1792375125671238137.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792375125671238137/fedora-44--arm64.tar.gz"
+      },
+      {
+        "distro": "rocky",
+        "version": "10",
+        "release_version": "1792375385760963168",
+        "release_checksum": "e00752da02e7cea2bee1efac62315b910dc12e30da9cca52e5f9d535e82ea1b4",
+        "description": "Official Silo base Image Release. Distro: rocky | Version: 10 | Architecture: arm64 | Release version: 1792375385760963168.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792375385760963168/rocky-10--arm64.tar.gz"
       }
     ],
     "amd64": []
