@@ -3,7 +3,16 @@
   "name": "silo-base-image-catalogue",
   "description": "A catalogue of official base images for use with the Silo platform.",
   "silo-images": {
-    "arm64": [],
+    "arm64": [
+      {
+        "distro": "alma",
+        "version": "10",
+        "release_version": "1792373627504074839",
+        "release_checksum": "3b015bd5db000a263a63ab93232b7896f534d89eac9deba16ed758652dccbb2e",
+        "description": "Official Silo base Image Release. Distro: alma | Version: 10 | Architecture: arm64 | Release version: 1792373627504074839.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792373627504074839/alma-10--arm64.tar.gz"
+      }
+    ],
     "amd64": []
   }
 }
