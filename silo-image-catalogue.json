@@ -19,6 +19,14 @@
         "release_checksum": "ce8507d3ba1d7f181f67daf2613a55c92db9357afe5fd59c1c154d6440f1fe7a",
         "description": "Official Silo base Image Release. Distro: alma | Version: 9 | Architecture: arm64 | Release version: 1792373904211075515.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792373904211075515/alma-9--arm64.tar.gz"
+      },
+      {
+        "distro": "debian",
+        "version": "12",
+        "release_version": "1792374072985888018",
+        "release_checksum": "c72d39199dfec1f6f9f8b5fbf88c03b4fa930292d81224c489afb5bc733a2bf5",
+        "description": "Official Silo base Image Release. Distro: debian | Version: 12 | Architecture: arm64 | Release version: 1792374072985888018.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792374072985888018/debian-12--arm64.tar.gz"
       }
     ],
     "amd64": []
