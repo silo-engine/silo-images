@@ -67,6 +67,14 @@
         "release_checksum": "e00752da02e7cea2bee1efac62315b910dc12e30da9cca52e5f9d535e82ea1b4",
         "description": "Official Silo base Image Release. Distro: rocky | Version: 10 | Architecture: arm64 | Release version: 1792375385760963168.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792375385760963168/rocky-10--arm64.tar.gz"
+      },
+      {
+        "distro": "rocky",
+        "version": "9",
+        "release_version": "1792375536271987445",
+        "release_checksum": "e056df04149931a62a3c31f6e3b39227d87dd3571e2097af86bedba85784ca44",
+        "description": "Official Silo base Image Release. Distro: rocky | Version: 9 | Architecture: arm64 | Release version: 1792375536271987445.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792375536271987445/rocky-9--arm64.tar.gz"
       }
     ],
     "amd64": []
