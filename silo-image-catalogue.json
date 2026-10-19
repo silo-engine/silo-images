@@ -51,6 +51,14 @@
         "release_checksum": "cf5b32d370edf4e48f5959bda50129cb554e5d90f575b895f08f928283cb0114",
         "description": "Official Silo base Image Release. Distro: fedora | Version: 43 | Architecture: arm64 | Release version: 1792374896221902207.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792374896221902207/fedora-43--arm64.tar.gz"
+      },
+      {
+        "distro": "fedora",
+        "version": "44",
+        "release_version": "1792375125671238137",
+        "release_checksum": "0be3906bdf6bbd0689d3896960f05f8573510c03ca87a1b3cc9aaebd05d8ba39",
+        "description": "Official Silo base Image Release. Distro: fedora | Version: 44 | Architecture: arm64 | Release version: 1792375125671238137.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792375125671238137/fedora-44--arm64.tar.gz"
       }
     ],
     "amd64": []
