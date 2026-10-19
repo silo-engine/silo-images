@@ -75,6 +75,14 @@
         "release_checksum": "e056df04149931a62a3c31f6e3b39227d87dd3571e2097af86bedba85784ca44",
         "description": "Official Silo base Image Release. Distro: rocky | Version: 9 | Architecture: arm64 | Release version: 1792375536271987445.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792375536271987445/rocky-9--arm64.tar.gz"
+      },
+      {
+        "distro": "ubuntu",
+        "version": "18.04",
+        "release_version": "1792375738748326447",
+        "release_checksum": "a4f10abcaab496fe1e1ad74ee4d3e1e05cdf132ec0c603a66771698ea336d92a",
+        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 18.04 | Architecture: arm64 | Release version: 1792375738748326447.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792375738748326447/ubuntu-18.04--arm64.tar.gz"
       }
     ],
     "amd64": []
