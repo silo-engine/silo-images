@@ -2,7 +2,11 @@
   "version": "1.0",
   "name": "silo-base-image-catalogue",
   "description": "A catalogue of official base images for use with the Silo platform.",
-  "defaultArm64Image": {"distro": "ubuntu", "version": "25.04", "release_version": "1792376224294092687"},
+  "defaultArm64Image": {
+    "distro": "ubuntu",
+    "version": "25.04",
+    "release_version": "1792376224294092687"
+  },
   "defaultAmd64Image": {},
   "silo-images": {
     "arm64": [
@@ -125,6 +129,17 @@
         "release_checksum": "61daffd2e3986ef7044fbb65194d9376920cdbf6656fedf383b1f3814f6f0887",
         "description": "Official Silo base Image Release. Distro: ubuntu | Version: 26.04 | Architecture: arm64 | Release version: 1792376366402004199.",
         "image_url": "https://github.com/silo-engine/silo-images/releases/download/1792376366402004199/ubuntu-26.04--arm64.tar.gz"
+      },
+      {
+        "distro": "fedora",
+        "version": "44",
+        "release_version": "1794181173502043467",
+        "release_checksum": "28b226fc60838745ca79760189b9832b4b828c7503b6b11ecba0aeb0f4a9a016",
+        "description": "Official Silo base Image Release. Distro: fedora | Version: 44 | Architecture: arm64 | Release version: 1794181173502043467.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1794181173502043467/fedora-44--arm64.tar.gz",
+        "imageSize": "424599213",
+        "isEOL": "false",
+        "catalogueName": "silo-image-catalogue"
       }
     ],
     "amd64": []
