@@ -176,6 +176,17 @@
         "image_size": "118548197",
         "is_eol": "false",
         "catalogue_name": "silo-image-catalogue"
+      },
+      {
+        "distro": "fedora",
+        "version": "44",
+        "release_version": "1794418796106916930",
+        "release_checksum": "5565a9c0c3f606c172544d1646eee6b848ebcf250509672120f2882eb510a893",
+        "description": "Official Silo base Image Release. Distro: fedora | Version: 44 | Architecture: arm64 | Release version: 1794418796106916930.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1794418796106916930/fedora-44--arm64.tar.gz",
+        "image_size": "424599213",
+        "is_eol": "false",
+        "catalogue_name": "silo-image-catalogue"
       }
     ],
     "amd64": []
