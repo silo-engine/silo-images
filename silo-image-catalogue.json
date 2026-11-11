@@ -173,6 +173,17 @@
         "image_size": "424599213",
         "is_eol": "false",
         "catalogue_name": "silo-image-catalogue"
+      },
+      {
+        "distro": "ubuntu",
+        "version": "25.04",
+        "release_version": "1794417143856959713",
+        "release_checksum": "070b2ea645ac4af28e0db9a27f62f50c9cfe1d3e97e548b7dbeebbf8b20b83ea",
+        "description": "Official Silo base Image Release. Distro: ubuntu | Version: 25.04 | Architecture: arm64 | Release version: 1794417143856959713.",
+        "image_url": "https://github.com/silo-engine/silo-images/releases/download/1794417143856959713/ubuntu-25.04--arm64.tar.gz",
+        "image_size": "118548197",
+        "is_eol": "false",
+        "catalogue_name": "silo-image-catalogue"
       }
     ],
     "amd64": []
