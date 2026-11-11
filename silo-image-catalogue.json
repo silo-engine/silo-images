@@ -5,7 +5,7 @@
   "defaultArm64Image": {
     "distro": "ubuntu",
     "version": "25.04",
-    "release_version": "1792376224294092687"
+    "release_version": "1794417143856959713"
   },
   "defaultAmd64Image": {},
   "silo-images": {
